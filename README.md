@@ -31,7 +31,7 @@ This repository contains Task 2 (Exploratory Data Analysis) completed during my 
 ## Task 3: Data Visualization
 
 ###  Overview
-Transformed raw data into insightful visual formats and charts using **Python**, **Matplotlib**, and **Seaborn** to uncover underlying patterns, trends, and relationships for data-driven decision-making.
+Transformed raw data into insightful visual formats and charts using **Python**, **Matplotlib**, and **Seaborn** to uncover underlying patterns, trends, and relationships for data-driven decision-making. 
 
 ###  Tools & Libraries Used
 * **Python**
