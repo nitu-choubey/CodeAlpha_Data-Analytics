@@ -1,6 +1,25 @@
 
 # CodeAlpha Data Analytics Internship
 
+## Task 1: Web Scraping
+
+###  Overview
+Extracted structured textual data from public web pages using **Python**, **Requests**, and **BeautifulSoup**, and successfully built a custom dataset stored in CSV format for analysis.
+
+###  Tools & Libraries Used
+* **Python**
+* **Requests** (HTTP Library for Web Fetching)
+* **BeautifulSoup** (HTML Parsing & Data Extraction)
+* **Pandas** (Dataset Structuring & Export)
+
+###  Key Outputs
+* **Data Extraction:** Scraped quotes and corresponding author names from `quotes.toscrape.com`.
+* **Custom Dataset:** Generated and saved the structured output into a clean CSV format.
+
+###  Files Included in `Task1_WebScraping/`
+* `task1_scraping.py` - Python script for web scraping and CSV generation.
+* `scraped_quotes.csv` - The resulting custom dataset containing extracted quotes and authors.
+
 ## TASK 2: Exploratory Data Analysis (EDA)
 This repository contains Task 2 (Exploratory Data Analysis) completed during my Data Analytics Internship at CodeAlpha.
 
