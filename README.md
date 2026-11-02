@@ -1,7 +1,7 @@
 
 # CodeAlpha Data Analytics Internship
 
-##TASK 2: Exploratory Data Analysis (EDA)
+## TASK 2: Exploratory Data Analysis (EDA)
 This repository contains Task 2 (Exploratory Data Analysis) completed during my Data Analytics Internship at CodeAlpha.
 
 ## Project Details:
