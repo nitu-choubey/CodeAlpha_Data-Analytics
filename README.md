@@ -26,3 +26,23 @@ Transformed raw data into insightful visual formats and charts using **Python**,
 ###  Files Included
 * `task3_visual.py` - Python script containing the visualization code.
 * Saved chart images and output screenshots demonstrating successful code execution.
+
+
+## Task 4: Sentiment Analysis
+
+###  Overview
+Performed NLP-based sentiment analysis on textual data using **Python**, **Pandas**, and **TextBlob** to classify customer reviews and feedback into positive, negative, or neutral polarities, followed by visual distribution analysis using **Matplotlib**.
+
+###  Tools & Libraries Used
+* **Python**
+* **Pandas** (Data Manipulation)
+* **TextBlob** (Natural Language Processing & Polarity Scoring)
+* **Matplotlib** (Data Visualization)
+
+###  Key Insights & Outputs
+* **Sentiment Classification:** Evaluated customer text inputs and calculated polarity scores ranging from -1.0 to 1.0.
+* **Distribution Chart:** Generated a bar graph illustrating the count of positive, negative, and neutral sentiments.
+
+###  Files Included in `Task4_SentimentAnalysis/`
+* `task4_sentiment.py` - Python script for sentiment analysis and plotting.
+* `sentiment_distribution.png` - Visual representation of the sentiment distribution results.
